@@ -1,0 +1,17 @@
+{
+  "name": "chris",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "kingsley effiong",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.7"
+  }
+}
