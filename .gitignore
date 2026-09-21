@@ -1,0 +1,30 @@
+gitignore
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env
+.env.local
+.env.production
+.env.development
+
+# WhatsApp session/cache files
+.wwebjs_auth/
+.wwebjs_cache/
+.wwebjs_temp_session_*/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
